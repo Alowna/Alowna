@@ -45,10 +45,30 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Python-282C34?&logo=python&logoColor=white" alt="Python" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C++-282C34?&logo=cplusplus&logoColor=white" alt="C++" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/C-282C34?&logo=c&logoColor=white" alt="C" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+
+---
+
+<div aling="center">
+<h3>My current babies</h3>
+  
+[**Geography-Classes-CheatSheet**](https://github.com/Alowna/Geography-Classes-CheatSheet)
+[![GitHub Stats](https://vercel.app)](https://github.com/Alowna/Geography-Classes-CheatSheet)
+
+---
+
+
+</div>
+
 
 </div>
 
