@@ -19,6 +19,7 @@ or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me :3
 <i>Follow me around the web:</i><br>
 
 <a href="https://br.linkedin.com/in/alowna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="http://lattes.cnpq.br/8517034427164992" target="_blank"><img src="https://img.shields.io/badge/Lattes-%230077C9.svg?&style=flat-square&logo=lattes&logoColor=white" alt="Lattes"></a>
 <a href="https://www.instagram.com/lonakuhll/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://x.com/Alownah_NO" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://open.spotify.com/user/31obqd2hjupz2x4woyg3mjpnwjzy" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
