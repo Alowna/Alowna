@@ -63,6 +63,7 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 <h3>My current babies</h3>
   
 [**Geography-Classes-CheatSheet**](https://github.com/Alowna/Geography-Classes-CheatSheet)
+[Hosted on Oracle Cloud VM and DuckDNS Subdominion](http://geocheatsheet.duckdns.org/)
 
 </div>
 
