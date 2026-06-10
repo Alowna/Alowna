@@ -78,6 +78,8 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 [**Calculadora**](https://github.com/Alowna/Calculadora)
 <br>
 [Windows 10/11 Release](https://github.com/Alowna/Calculadora/releases/tag/v1.0.0-windows)
+[Linux Release](https://github.com/Alowna/Calculadora/releases/tag/v1.0.0)
+
 </div>
 
 
