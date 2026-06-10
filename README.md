@@ -75,6 +75,8 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 <br>
 [Hosted on Oracle Cloud VM and DuckDNS Subdominion](http://geocheatsheet.duckdns.org/)
 
+[**Calculadora**](https://github.com/Alowna/Calculadora)
+[Windows 10/11 Release](https://github.com/Alowna/Calculadora/releases/tag/v1.0.0-windows)
 </div>
 
 
