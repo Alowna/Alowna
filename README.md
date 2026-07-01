@@ -8,6 +8,8 @@
 
 </div>
 
+
+
 <div align="center">
 
 You've found my humble domain! Adjust your scoliosis and take a look ꉂ(˵˃ ᗜ ˂˵) <br>
@@ -137,12 +139,17 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 
 
 ---
+
+
+<h2 align="center">GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alowna&theme=dark-aura&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+</div>
 </br>
 </br>
+<div>
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
-
-
 </div>
 
 [tech_tools_anchor]: #bonjour--
