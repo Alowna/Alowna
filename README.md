@@ -12,11 +12,9 @@
 
 <div align="center">
 
-You've found my humble domain! Adjust your scoliosis and take a look ꉂ(˵˃ ᗜ ˂˵) <br>
-
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, things can always be better!! <br>
 Also don't be afraid to ask anything, you can do it <a href="https://github.com/Alowna/Alowna/issues/new"><b>here</b></a><br>
-or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me :3
+or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me
 
 <i>Follow me around the web:</i><br>
 
@@ -32,13 +30,13 @@ or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me :3
 
 <div align="left">
 <h2>About</h2>
-Currently exploring my passions at the crossroads of tech and spatial analysis. I'm a Geography student with a background in Systems Analysis, building small projects to level up my dev skills. I'm constantly learning and looking for ways to integrate my geographical knowledge with modern technologies, particularly focusing on Machine Learning and Cloud ecosystems.
+Currently exploring my passions at the crossroads of tech and spatial analysis. I'm a Geography student with a background in Systems Analysis, building small projects to level up my dev skills. I'm constantly learning and looking for ways to integrate my geographical knowledge with modern technologies, currently focusing on Web Development and Cloud ecosystems.
   
 </div>
 
 <div align ="center">
 <br>
-<h3>Some of what I know </h3>
+<h3>Techs I handle </h3>
 <table>
   <tr>
     <td><b>Front-end</b></td>
@@ -96,7 +94,7 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 
 <div aling="center">
 
-<h3>My current babies</h3>
+<h3>My current projects</h3>
 
 ---
 
