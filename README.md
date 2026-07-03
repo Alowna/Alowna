@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Meow meow, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1> Welcome to my domain, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
 </div>
 
 <div align="center" width="50">
@@ -37,36 +37,59 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 </div>
 
 <div align ="center">
-<br><br><br>
+<br>
 <h3>Some of what I know </h3>
+<table>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="Typescript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" title="Bootstrap"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" title="Vite"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" title="Laravel"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" title="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+    </td>
+  </tr>
 
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=007ACC" alt="apache http server" title="Apache HTTP Server" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-282C34?&logo=python&logoColor=white" alt="Python" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C++-282C34?&logo=cplusplus&logoColor=white" alt="C++" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C-282C34?&logo=c&logoColor=white" alt="C" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Apache%20HTTP%20Server-282C34?logo=apache&logoColor=007ACC" alt="apache http server" title="Apache HTTP Server" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Oracle%20Cloud-282C34?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3OSA0NSI+PHBhdGggZD0iTTMyLjUgMS42QTE1IDE1IDAgMCAwIDIwLjMgMTJxLjEuNS0xLjEuM2MtMi0uMy00LjYuMy02LjggMS4zQTE1IDE1IDAgMCAwIDYgMjAuNGMtMSAyLTEuNyA1LjEtMS43IDcuM2ExOSAxOSAwIDAgMCAzIDkuNGMuOCAxLjEgMi40IDIuNyAzLjQgMy41UTEzIDQyLjIgMTYgNDNsMS4zLjNoNDcuMmwxLS4zYTExIDExIDAgMCAwIDYtMy40cTIuMS0yLjIgMy4yLTZjLjItLjguNC0yLjYuNC0zLjQgMC0yLjItLjgtNS4yLTEuOC03YTEyIDEyIDAgMCAwLTMuMi0zLjYgMTkgMTkgMCAwIDAtMy43LTJsLTMuNi0uNC0uNy4xLS4yLS4zYy0uNy0xLjMtMi4zLTMuMi0zLjUtNC4xcS0yLTEuNS00LjYtMi4yYTkgOSAwIDAgMC0zLjItLjRoLTJsLS4zLS43cS0zLjMtNi0xMC40LTcuN2MtMS0uMy00LjItLjQtNS40LS4ybTQgMy4zYzEuNy4yIDMuOSAxIDUuNCAyIDEgLjcgMi43IDIuNCAzLjQgMy40bC40LjctLjkuNS0xLjQuOC0yLjEgMS44IDEuMi43IDEuMi42LjctLjVjMi44LTEuOCA3LTIuMiAxMC4yLS45cTQgMS43IDUuOSA1LjRsLjMuOGguOGExMiAxMiAwIDAgMSA1LjIuOWMyIC45IDMuOSAyLjkgNC43IDUgMSAyLjUgMSA1LjYtLjEgOC4zYTExIDExIDAgMCAxLTguNCA2LjQgMTIzNCAxMjM0IDAgMCAxLTQ0LjUtLjEgMTIuOCAxMi44IDAgMCAxLTguNy0yMCAxMyAxMyAwIDAgMSA5LjYtNS41Yy4xIDAgLjIuMi4yIDEuNnYxLjlsLjEuMyAxLjcuNiAxLjcuNS0uMi0xdi0yLjNhMTIgMTIgMCAwIDEgNy40LTExUTMzIDQuOCAzNi41IDVtMCAwIi8+PHBhdGggZD0iTTI0LjggMjMuM2EyIDIgMCAwIDAtMS4yLjhsLS4zIDFjMCAxIC4xIDEuMi44IDEuOGwuNC4zaDEuOGMyIC4xIDIuNCAwIDIuOS0uNSAxLTEuMi41LTMtLjktMy40LS41LS4xLTMtLjItMy41IDBtMy40LjhhMS40IDEuNCAwIDAgMSAwIDIuNCA4IDggMCAwIDEtMy40IDBjLTEtLjUtMS0xLjctLjMtMi4zLjQtLjMuNS0uMyAyLS4zcTEuNSAwIDEuNy4ybTItLjl2NC4xaC43di0zLjRoMS42YzEuNCAwIDEuNSAwIDEuNi4ycS4zLjUgMCAxYy0uMi4yLS40LjItMS40LjJoLTEuMWwxLjYgMS42IDEgLjRoLjVsLS42LS42cS0xLS44LS41LS43bC42LS4yYzEtLjQgMS0yLjEgMC0yLjUtLjQtLjEtMy44LS4yLTQgMG03LjUgMC0uNiAxLTEuOCAyLjdxLS40LjQuMy4zaC40bC42LTEgMS41LTIuMiAxIDEuN2gtMXEtMS4zIDAtLjcuNmMuMS4yLjIuMiAxLjIuMmgxbC4zLjNxLjIuNC42LjR0LjMtLjJjMC0uMi0yLTMuNC0yLjMtMy43cS0uNC0uNC0uOC0uMW00LjQgMGEyIDIgMCAwIDAtLjMgMy44Yy4zLjEuNi4yIDEuOC4yaDEuNWwuMi0uMy4yLS4zSDQ0cS0xLjcgMC0xLjktLjJjLS44LS41LTEtMS42LS4yLTIuM2wuMy0uM2gxLjRjMS40IDAgMS41IDAgMS42LS4zLjQtLjQuMy0uNC0xLjItLjR6bTQgMHYzLjloMmMxLjggMCAxLjkgMCAyLS4ycS4zIDAgLjMtLjNoLTEuOGMtMS41IDAtMS44IDAtMS44LS4ydi0zLjNINDZtNS42LjFxLS45LjQtMS4yIDEuM2wtLjEuOXEwIC45LjggMS40bC40LjNoMS42bDEuNi4xLjItLjMuMi0uM2gtMS42Yy0xLjcgMC0xLjktLjEtMi4yLS42cy0uNC0uNSAxLjQtLjVoMS43bC40LS42SDUzcS0yIDAtMi0uMmwuNC0uNS4zLS40aDNsLjEtLjNxLjItLjMuMS0uNHptNC4zLjF2LjNsLjEtLjJ6bS0zMi45IDZ2LjNoMzIuMWMwLS4yLTEuOS0uMi0xNi0uM3ptOS45IDIuOHEtMS4xLjYtLjcgMS44Yy4zLjggMS4zIDEgMS45LjVxLjUtLjUgMC0uNi0uMiAwLS4zLjJjLS4zLjUtMSAwLTEtLjZxLjEtMS4yLjgtLjdjLjQuNCAxIC4zLjctLjJxLS41LS43LTEuNC0uNG01LjEgMHEtLjcuMy0uNyAxLS4yIDEuNiAxLjIgMS42IDEuMy0uMSAxLjItMS42LS4xLS44LS45LTFjLS40LS4xLS40LS4xLS44IDBtLjkgMS4ycTAgLjktLjQuOXQtLjUtLjlxMC0xIC42LS43LjMuMS4zLjdtLTMuOCAwdjEuNEgzN3YtLjNxLjEtLjQtLjUtLjNIMzZ2LTJoLS42Wm01LjMtLjJjMCAxIDAgMSAuMiAxLjNxLjguNiAxLjYgMGMuMy0uMi4zLS4yLjMtMS4zdi0xSDQydi45cTAgMS4zLS41IDEuMi0uNiAwLS40LTEuMnYtMWgtLjdabTMgLjN2MS4zaC43cTEuNCAwIDEuNS0xIC4yLS4zIDAtLjgtLjItLjgtMS41LS44aC0uOFptMS40LS42Yy4zLjUgMCAxLjQtLjUgMS4zcS0uMy4xLS4yLS42di0uOHEuMi0uMi43IDBtMCAwIi8+PC9zdmc+&logoColor=007ACC" alt="Oracle Cloud" title="Oracle Cloud" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Azure%20Cloud-282C34?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgdmlld0JveD0iMCAwIDEwMjQgMjk2Ij48cGF0aCBkPSJNMTUzIDQ4LjUgOTcuNSA5NS4xbC03LjEgMTIuMkwyLjEgMjYwLjcuOSAyNjNoODYuNmw1OS40LTEyNy44TDIwNy43IDQuN2MuNy0xLjUgMS4yLTIuNyAxLTIuN1MxODMuNSAyMi45IDE1MyA0OC41bTY5LjMtMjMuOUwxOTguNCA5MGwtMjMgNjMuNSAzMyAzOS41IDQ2LjQgNTUuM2M3LjMgOC43IDEzLjIgMTYgMTMgMTYuMXMtMzkuNiA3LjItODcuNiAxNS43TDkzIDI5NS41bDE0My42LjNjNzkuMS4xIDE0My45LjEgMTQ0LjEtLjEuNC0uNS0xNTUtMjcwLjItMTU2LjgtMjcyLjFxLS45LS44LTEuNiAxbTIzMC40IDE0OC4xTDQyMCAyNTguOGwtMiA1LjJoMjEuNWw4LjctMjQuMyA4LjYtMjQuMmg3My40bDkuMSAyNC4yIDkgMjQuM2gxMC45YzYgMCAxMC43LS4zIDEwLjUtLjhsLTMzLjItODZMNTAzLjcgOTJoLTIwLjN6bTQyLjQtNTQuNmMuNiAyLjMgNyAyMC44IDE0LjQgNDFzMTMuNSAzNy4yIDEzLjUgMzcuOGMwIC44LTguMyAxLjEtMjkuNSAxLjEtMjEuNCAwLTI5LjUtLjMtMjkuNS0xLjEgMC0uNyA1LjktMTcuNCAxMy4yLTM3LjNzMTMuNS0zNy45IDE0LTQwLjFjMS45LTguMSAyLjQtOC4zIDMuOS0xLjRtNDcwIDIxYTU5IDU5IDAgMCAwLTI0LjYgMTNjLTE0LjUgMTMuNy0yMS40IDMyLjgtMjAuMiA1NS45IDEuMyAyNC4zIDkuMSAzOS45IDI1LjIgNTAuNmE0OCA0OCAwIDAgMCAzMCA3LjcgNzAgNzAgMCAwIDAgMzQuNS03LjFsNy41LTMuNy4zLTguN3EuNC0xMi0yLjMtNy45Yy0uOCAxLjQtOC45IDUuNy0xNC45IDgtOC4xIDMtMjEuMyA0LjQtMjguOSAzcS0yNy45LTUuMS0zMi4yLTM3LjdsLS43LTUuMmg4NS40bC0uNC0xNy44Yy0uMy0xNy43LS4zLTE3LjctMy42LTI0LjRhNDguNiA0OC42IDAgMCAwLTU1LjEtMjUuN20yNC45IDE4LjdjOC44IDQuNCAxNS4xIDE0LjggMTYuNiAyNy43bC43IDUuNWgtNjcuNmwuNy00LjNjLjQtMi4zIDEuOS02LjkgMy41LTEwLjIgOS0xOS4xIDI4LjktMjcuMiA0Ni4xLTE4LjdtLTEwMy4xLTE3LjRxLTEzLjYgNC44LTIwLjggMTkuOWwtMi44IDUuOC0uNi03LjdjLS40LTQuMi0uNy05LjktLjctMTIuNnYtNC45bC05LjIuMy05LjMuMy0uMyAxOGMtLjIgOS45IDAgMzcuNS4zIDYxLjJsLjcgNDMuM2gxNy41bC42LTkuN2MuNC01LjQuNy0yMi4zLjctMzcuNiAwLTI3LjEuMS0yOCAyLjYtMzUuNSA1LjQtMTYuNSAxNC4xLTI0LjIgMjctMjQuMmEzNCAzNCAwIDAgMSAxNCAzYy4yIDAgLjQtNC40LjQtOS45di05LjlsLTMuMS0uNmMtNS0xLTEzLjEtLjYtMTcgLjhNNTg0IDE0OXY4bDIzLjguMWMxMyAuMSAyNy44LjQgMzIuOC44bDkuMi42LTM2LjQgNTBjLTI3IDM3LjEtMzYuNCA1MC43LTM2LjQgNTIuN3YyLjhoMTAxdi0xNmgtMzUuNGMtMTkuNSAwLTM1LjctLjMtMzUuOS0uOC0uMy0uNCAxNS42LTIzIDM1LjMtNTAuMiAyOS4yLTQwLjMgMzUuOS01MC4xIDM1LjktNTIuOGwuMS0zLjJoLTk0em0xMTggMzRjMCAzNC41LjMgNDMuNSAxLjYgNDkuNyAzLjQgMTYuNSAxMS41IDI2LjYgMjUuMSAzMS40YTYwIDYwIDAgMCAwIDMxIC41IDQ1IDQ1IDAgMCAwIDE5LjktMTQuOWMxLjYtMi42IDMuMi00LjYgMy43LTQuNy40IDAgLjcgNC4zLjcgOS41djkuNWgxOVYxNDJoLTE5djM4LjRjMCAzNC44LS4yIDM5LTEuOSA0NC41cS01LjMgMTcuNC0xOSAyMy40YTQxIDQxIDAgMCAxLTIzLjUuOGMtOC4yLTIuOC0xNS4xLTExLjktMTcuNS0yMi45QTQ3NCA0NzQgMCAwIDEgNzIxIDE4MXYtNDBoLTE5eiIvPjwvc3ZnPg==&logoColor=007ACC" alt="Azure Cloud" title="Azure Cloud" height="25" />][tech_tools_anchor]
-&nbsp;
+  <tr>
+    <td><b>DB</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td><b>Infra</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="45" title="Apache"/>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><b>DevTools</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45" title="Git"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" title="VS Code"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="45" title="Azure"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle Cloud"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
