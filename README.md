@@ -81,11 +81,19 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" title="VS Code"/>
     </td>
   </tr>
+  
   <tr>
     <td><b>Cloud</b></td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="45" title="Azure"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" title="Oracle Cloud"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Engines</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="45" title="Godot"/>
     </td>
   </tr>
 </table>
@@ -153,6 +161,20 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" title="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="30" title="Vite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" title="MySQL"/>
+
+</div>
+
+</div>
+
+
+
+---
+
+[**AtmosQuest**](https://github.com/Alowna/AtmosQuest)
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot"/>
+
 
 </div>
 
