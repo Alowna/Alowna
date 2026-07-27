@@ -170,13 +170,20 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 
 ---
 
-[**AtmosQuest**](https://github.com/Alowna/AtmosQuest)
+
+
+<img src="https://i.imgur.com/jEbZJPT.png" width="120" title="AtmosQuest"/>
 <div align="center">
-
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" title="Godot"/>
-
+  <br>
+  
 
 </div>
+
+[**Repository**](https://github.com/Alowna/AtmosQuest)
+
+[**Download Here**](https://atmosquest.duckdns.org/)
 
 </div>
 
